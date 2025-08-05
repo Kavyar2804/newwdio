@@ -1,3 +1,5 @@
+import 'ts-node/register'
+
 export const config: WebdriverIO.Config = {
     //
     // ====================
